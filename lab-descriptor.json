@@ -29,7 +29,7 @@
     "name": "Cyclic Voltammetry of Ferricyanide System",
     "short-name": "modified-carbon-paste",
     "repo": "https://github.com/virtual-labs/exp-modified-carbon-paste-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -50,7 +50,7 @@
     "name": "Heavy Metal Analysis using Differential Pulse Voltammetry (DPV) and Square Wave Voltammetry (SWV) Techniques",
     "short-name": "differential-pulse-voltammetry",
     "repo": "https://github.com/virtual-labs/exp-differential-pulse-voltammetry-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -71,7 +71,7 @@
     "name": "Redox Analyte Study on Different Electrodes",
     "short-name": "redox-analyte-study",
     "repo": "https://github.com/virtual-labs/exp-redox-analyte-study-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
