@@ -15,7 +15,7 @@
     "name": "Concentration Cells",
     "short-name": "concentration-cells",
     "repo": "https://github.com/virtual-labs/exp-concentration-cells-dei",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
@@ -71,7 +71,7 @@
     "name": "Redox Analyte Study on Different Electrodes",
     "short-name": "redox-analyte-study",
     "repo": "https://github.com/virtual-labs/exp-redox-analyte-study-dei",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
